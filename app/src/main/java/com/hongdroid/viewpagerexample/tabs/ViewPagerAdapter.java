@@ -1,11 +1,14 @@
 package com.hongdroid.viewpagerexample.tabs;
 
+import android.widget.TextView;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
+import com.hongdroid.viewpagerexample.R;
 import com.hongdroid.viewpagerexample.tabs.Frag1;
 import com.hongdroid.viewpagerexample.tabs.Frag2;
 import com.hongdroid.viewpagerexample.tabs.Frag3;
@@ -45,13 +48,10 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
         switch (position) {
             case 0:
                 return "";
-//                return "Monday";
             case 1:
                 return "";
-//                return "Tuesday";
             case 2:
                 return "";
-//                return "Wednesday";
             default:
                 return null;
         }

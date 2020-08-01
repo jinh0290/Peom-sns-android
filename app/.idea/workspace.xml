@@ -10,19 +10,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51aa5a13-b15a-47a6-b18d-43b29d4b41c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tab3_recycler/Tab3Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tab3_recycler/Tab3Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/item_border.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/res/layout/item_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/ExtraTabs/FollowingActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/ExtraTabs/LikeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/ExtraTabs/MyWritingsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/ExtraTabs/WriteActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/writing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_following.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_like.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_my_writing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_write.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/dimens.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_beta05_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_beta05_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_2_0_alpha01_aar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/ViewPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/ViewPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +82,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="resourceFile" />
-        <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -68,12 +104,19 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-31T18:17:50.229Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../12_RecyclerView-master/12_RecyclerView-master/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/res/drawable" />
   </component>
   <component name="RecentsManager">
+    <key name="android.template.1120917592">
+      <recent name="com.hongdroid.viewpagerexample.ExtraTabs" />
+      <recent name="com.hongdroid.viewpagerexample.ExtraTab" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\q\Downloads\35_ViewPager-master\35_ViewPager-master\app\src\main\res\drawable" />
       <recent name="C:\Users\q\Downloads\35_ViewPager-master\35_ViewPager-master\app\src\main\res\font" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\q\Downloads\35_ViewPager-master\35_ViewPager-master\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunManager">
@@ -150,6 +193,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2596" y="164" key="#app" timestamp="1596286510519">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2596" y="164" key="#app/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596286510519" />
     <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1596265156841">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -158,35 +205,51 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266545821" />
-    <state x="2460" y="275" key="AndroidCreateResourceFileDialog" timestamp="1596261083727">
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596288524304">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2460" y="275" key="AndroidCreateResourceFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596261083727" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1596265445080">
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596288524304" />
+    <state x="2460" y="275" key="AndroidCreateResourceFileDialog" timestamp="1596282132451">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2460" y="275" key="AndroidCreateResourceFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596282132451" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1596286492890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596219439192" />
-    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596265445080" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1596266720662">
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596286492890" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1596287468526">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720662" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1596266720662">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596287468526" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1596287468526">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720662" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1596266720661">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596287468526" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1596287468526">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720661" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1596266720662">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596287468526" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1596287468526">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720662" />
-    <state x="2573" y="251" width="613" height="538" key="find.popup" timestamp="1596265784578">
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596287468526" />
+    <state x="2572" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1596286777649">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2573" y="251" width="613" height="538" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596265784578" />
+    <state x="2572" y="268" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596286777649" />
+    <state x="2573" y="251" width="626" height="538" key="find.popup" timestamp="1596292213555">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2573" y="251" width="626" height="538" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596292213555" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1596288144579">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596288144579" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596292146340">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596292146340" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -194,7 +257,7 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tab3_recycler/Tab3Adapter.java</url>
           <line>32</line>
-          <properties class="com.hongdroid.viewpagerexample.Tab3Adapter">
+          <properties class="com.hongdroid.viewpagerexample.tab3_recycler.Tab3Adapter" method="onBindViewHolder">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
