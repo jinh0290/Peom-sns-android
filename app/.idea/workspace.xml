@@ -6,7 +6,20 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51aa5a13-b15a-47a6-b18d-43b29d4b41c7" name="Default Changelist" comment="" />
+    <list default="true" id="51aa5a13-b15a-47a6-b18d-43b29d4b41c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/font.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/neat_font.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/FragMonday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/FragTuesday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/FragWednesday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/ViewPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/ViewPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag_monday.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag_tuesday.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag_wednesday.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag3.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +38,20 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1fSlYBRdunPmDJLo16o0Yzc7zGD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,7 +61,13 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="R39M203GKTT" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-31T18:17:50.229Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\q\Downloads\35_ViewPager-master\35_ViewPager-master\app\src\main\res\font" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -111,6 +143,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596256848800">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596256848800" />
+    <state x="2460" y="275" key="AndroidCreateResourceFileDialog" timestamp="1596257139873">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2460" y="275" key="AndroidCreateResourceFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596257139873" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596219439192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

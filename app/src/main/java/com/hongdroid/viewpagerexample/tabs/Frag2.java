@@ -1,4 +1,4 @@
-package com.hongdroid.viewpagerexample;
+package com.hongdroid.viewpagerexample.tabs;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,19 +9,21 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-public class FragTuesday extends Fragment {
+import com.hongdroid.viewpagerexample.R;
+
+public class Frag2 extends Fragment {
     private View view;
 
-    public static FragTuesday newInstance() {
-        FragTuesday fragTuesday = new FragTuesday();
-        return fragTuesday;
+    public static Frag2 newInstance() {
+        Frag2 frag2 = new Frag2();
+        return frag2;
     }
 
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.frag_tuesday, container, false);
+        view = inflater.inflate(R.layout.frag2, container, false);
 
         return view;
     }

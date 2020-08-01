@@ -1,10 +1,14 @@
-package com.hongdroid.viewpagerexample;
+package com.hongdroid.viewpagerexample.tabs;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
+
+import com.hongdroid.viewpagerexample.tabs.Frag1;
+import com.hongdroid.viewpagerexample.tabs.Frag2;
+import com.hongdroid.viewpagerexample.tabs.Frag3;
 
 public class ViewPagerAdapter extends FragmentPagerAdapter {
     public ViewPagerAdapter(@NonNull FragmentManager fm) {
@@ -18,11 +22,11 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         switch (position) {
             case 0:
-                return FragMonday.newInstance();
+                return Frag1.newInstance();
             case 1:
-                return FragTuesday.newInstance();
+                return Frag2.newInstance();
             case 2:
-                return FragWednesday.newInstance();
+                return Frag3.newInstance();
             default:
                 return null;
         }
