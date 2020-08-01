@@ -9,7 +9,7 @@
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tab_layout"
         android:layout_width="match_parent"
-        android:layout_height="5dp"
+        android:layout_height="50dp"
         app:layout_constraintBottom_toTopOf="@+id/const_vp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

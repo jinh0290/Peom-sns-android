@@ -5,27 +5,31 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="51aa5a13-b15a-47a6-b18d-43b29d4b41c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/res/font/font.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/res/font/neat_font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tab3_recycler/Tab3Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tab3_recycler/Tab3Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/item_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/item_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_beta05_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/FragMonday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/FragTuesday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/FragWednesday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/ViewPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/ViewPagerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag_monday.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag_tuesday.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag_wednesday.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tabs/Frag3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/frag3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/frag3.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="R39M203GKTT" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -42,6 +46,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -62,10 +68,11 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-31T18:17:50.229Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../12_RecyclerView-master/12_RecyclerView-master/app" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\q\Downloads\35_ViewPager-master\35_ViewPager-master\app\src\main\res\drawable" />
       <recent name="C:\Users\q\Downloads\35_ViewPager-master\35_ViewPager-master\app\src\main\res\font" />
     </key>
   </component>
@@ -143,21 +150,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596256848800">
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1596265156841">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596256848800" />
-    <state x="2460" y="275" key="AndroidCreateResourceFileDialog" timestamp="1596257139873">
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596265156841" />
+    <state x="2312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596266545821">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2460" y="275" key="AndroidCreateResourceFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596257139873" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596219439192">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266545821" />
+    <state x="2460" y="275" key="AndroidCreateResourceFileDialog" timestamp="1596261083727">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2460" y="275" key="AndroidCreateResourceFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596261083727" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1596265445080">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596219439192" />
-    <state x="2573" y="251" width="613" height="538" key="find.popup" timestamp="1596255969212">
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596265445080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1596266720662">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2573" y="251" width="613" height="538" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596255969212" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720662" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1596266720662">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720662" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1596266720661">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720661" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1596266720662">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596266720662" />
+    <state x="2573" y="251" width="613" height="538" key="find.popup" timestamp="1596265784578">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2573" y="251" width="613" height="538" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596265784578" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tab3_recycler/Tab3Adapter.java</url>
+          <line>32</line>
+          <properties class="com.hongdroid.viewpagerexample.Tab3Adapter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hongdroid/viewpagerexample/tab3_recycler/Tab3Adapter.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
