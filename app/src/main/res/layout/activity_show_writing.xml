@@ -4,13 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ExtraTabs.MyWritingsActivity">
+    tools:context=".ExtraTabs.ShowWritingActivity">
 
     <TextView
-        android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="내 글들"
-        tools:layout_editor_absoluteX="178dp"
-        tools:layout_editor_absoluteY="350dp" />
+        android:text="내 글이야"
+        tools:layout_editor_absoluteX="181dp"
+        tools:layout_editor_absoluteY="360dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
