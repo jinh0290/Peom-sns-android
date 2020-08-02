@@ -24,14 +24,15 @@
     <TextView
         android:id="@+id/tv_complete"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_height="0dp"
         android:fontFamily="@font/neat_font"
-        android:text="완료"
+        android:text="  완료  "
+        app:layout_constraintBottom_toTopOf="@+id/et_write"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.85"
         app:layout_constraintStart_toEndOf="@+id/tv_topic"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"/>
 
     <EditText
         android:id="@+id/et_write"

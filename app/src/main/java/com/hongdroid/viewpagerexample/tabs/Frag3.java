@@ -27,6 +27,8 @@ public class Frag3 extends Fragment {
     private RecyclerView recyclerView;
     private LinearLayoutManager linearLayoutManager;
 
+    //
+
 
     public static Frag3 newInstance() {
         Frag3 fragWednesday = new Frag3();
