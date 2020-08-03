@@ -12,8 +12,9 @@ import com.hongdroid.viewpagerexample.R;
 public class ShowWritingActivity extends AppCompatActivity {
 
     TextView tv_title, tv_content, tv_writer, tv_date;
-    ImageView iv_heart;
+    ImageView iv_heart, iv_back;
     Boolean is_like;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +47,14 @@ public class ShowWritingActivity extends AppCompatActivity {
             public void onClick(View view) {
                 is_like = (is_like? false: true);
                 setHeartImage(is_like);
+            }
+        });
+
+        iv_back = findViewById(R.id.iv_back);
+        iv_back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
             }
         });
     }

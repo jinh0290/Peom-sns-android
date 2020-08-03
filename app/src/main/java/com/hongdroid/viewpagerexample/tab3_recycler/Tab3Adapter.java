@@ -1,14 +1,18 @@
 package com.hongdroid.viewpagerexample.tab3_recycler;
 
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.hongdroid.viewpagerexample.ExtraTabs.ShowWritingActivity;
+import com.hongdroid.viewpagerexample.MainActivity;
 import com.hongdroid.viewpagerexample.R;
 
 import java.util.ArrayList;
@@ -31,19 +35,33 @@ public class Tab3Adapter extends RecyclerView.Adapter<Tab3Adapter.CustomViewHold
     }
 
     @Override
-    public void onBindViewHolder(@NonNull Tab3Adapter.CustomViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull final Tab3Adapter.CustomViewHolder holder, int position) {
         holder.tv_title.setText(arrayList.get(position).getTitle());
         holder.tv_content.setText(arrayList.get(position).getContent());
         holder.tv_writer.setText(arrayList.get(position).getWriter());
         holder.tv_date.setText(arrayList.get(position).getDate());
 
-//        holder.layout.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                // intent로 창 띄우자
-//            }
-//        });
-//
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                int position = holder.getAdapterPosition();
+                Tab3Data clicked = arrayList.get(position);
+
+                String writing = clicked.getContent();
+                String title = clicked.getTitle();
+                String writer = clicked.getWriter();
+                String date = clicked.getDate();
+
+                Intent intent = new Intent(view.getContext(), ShowWritingActivity.class);
+                intent.putExtra("writing", writing);
+                intent.putExtra("title", title);
+                intent.putExtra("writer", writer);
+                intent.putExtra("date", date);
+                view.getContext().startActivity(intent);
+//                Toast.makeText(view.getContext(), "hey", Toast.LENGTH_SHORT).show();
+            }
+        });
+
 //        holder.layout.setOnLongClickListener(new View.OnLongClickListener() {
 //            @Override
 //            public boolean onLongClick(View view) {

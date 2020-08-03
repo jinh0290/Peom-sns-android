@@ -33,9 +33,11 @@ public class WriteActivity extends AppCompatActivity {
                 String writing = et_write.getText().toString();
                 Intent intent = new Intent(getApplicationContext(), ShowWritingActivity.class);
                 intent.putExtra("writing", writing);
+//                intent.putExtra("title", title);
+//                intent.putExtra("writer", writer);
+//                intent.putExtra("date", date);
                 startActivity(intent);
-
-
+                finish();
 
             }
         });
